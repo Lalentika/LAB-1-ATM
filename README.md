@@ -12,7 +12,7 @@ to withdraw money,deposit.
 
 UseCase Diagram
 
-<img width="1183" height="962" alt="image" src="https://github.com/user-attachments/assets/f6461979-3ef8-469a-baed-176738d4cefd" />
+<img width="674" height="571" alt="image" src="https://github.com/user-attachments/assets/826298c0-344e-412e-b03b-8b4672487ae1" />
 
 
 Class Diagram
@@ -37,7 +37,8 @@ Package Diagram
 
 Communication Diagram
 
-<img width="1313" height="886" alt="image" src="https://github.com/user-attachments/assets/74818ea2-7b9c-4b57-bede-1b1a0484e15e" />
+<img width="1264" height="845" alt="image" src="https://github.com/user-attachments/assets/41ea7843-3e00-4d50-8435-8e1515bd5de7" />
+
 
 
 ### RESULT: 
