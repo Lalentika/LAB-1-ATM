@@ -12,32 +12,27 @@ to withdraw money,deposit.
 
 UseCase Diagram
 
-<img width="674" height="571" alt="image" src="https://github.com/user-attachments/assets/826298c0-344e-412e-b03b-8b4672487ae1" />
-
+![ATMUseCase](https://github.com/user-attachments/assets/ecf92b1d-8eae-429a-abdd-e14acf3634c9)
 
 Class Diagram
 
-<img width="1332" height="879" alt="image" src="https://github.com/user-attachments/assets/28988aac-5f9b-4fb0-a156-ead8a30ae6c5" />
-
+![ATMClass](https://github.com/user-attachments/assets/52fa3b57-512e-4d53-b8ce-d092b1811d5f)
 
 Sequence Diagram
 
-<img width="1345" height="984" alt="image" src="https://github.com/user-attachments/assets/a3d4c2d0-c9d9-447d-97c1-bad3f4b184b1" />
-
+![ATMSequence](https://github.com/user-attachments/assets/97479c28-8093-4cc7-860c-be21552fd57e)
 
 Activity Diagram
 
-<img width="1043" height="1025" alt="image" src="https://github.com/user-attachments/assets/b5fef056-447a-4ef8-93c7-ccca1fd915b1" />
-
+![ATMactivity](https://github.com/user-attachments/assets/e0d73b5f-8b19-4440-b4f9-09413541a8f0)
 
 Package Diagram
 
-<img width="1051" height="679" alt="image" src="https://github.com/user-attachments/assets/ca00840f-67ba-45a6-8972-7a1643d9c391" />
-
+![ATMPackage](https://github.com/user-attachments/assets/25409518-0dd2-4e74-b8b7-ee2f38becb70)
 
 Communication Diagram
 
-<img width="1264" height="845" alt="image" src="https://github.com/user-attachments/assets/41ea7843-3e00-4d50-8435-8e1515bd5de7" />
+![ATMCommunication](https://github.com/user-attachments/assets/98445724-308b-40b9-8f17-9c8ce6b0f294)
 
 
 
